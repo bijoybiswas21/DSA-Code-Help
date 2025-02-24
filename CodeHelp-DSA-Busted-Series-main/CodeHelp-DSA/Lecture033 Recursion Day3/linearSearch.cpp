@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-
 void print(int arr[], int n) {
     cout << "Size of array is " << n << endl;
 
