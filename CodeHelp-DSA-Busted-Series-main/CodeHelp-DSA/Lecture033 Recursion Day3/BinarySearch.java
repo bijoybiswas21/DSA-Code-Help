@@ -4,7 +4,6 @@ public class BinarySearch {
         int key = 3;
 
         int ans = findIdx(arr , 0 , 5  , key);
-
         if(ans == -1)
             System.out.println("Not Found");
 
