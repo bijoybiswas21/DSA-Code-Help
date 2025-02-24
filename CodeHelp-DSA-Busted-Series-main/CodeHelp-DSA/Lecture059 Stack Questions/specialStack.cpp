@@ -1,6 +1,7 @@
 #include<stack>
 #include<limits.h>
-class SpecialStack {
+class SpecialStack 
+{
     // Define the data members.
 	stack<int> s;
     int mini = INT_MAX;
