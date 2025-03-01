@@ -1,3 +1,4 @@
+
 n = int(input())
 row = 1
 while row <= n:
