@@ -1,5 +1,4 @@
 package MathsForDSA;
-
 public class GCD {
     // Find GCD of Two Numbers
     public static void main(String [] args){
